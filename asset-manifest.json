@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a2e4678.css",
-    "main.js": "/static/js/main.80242fdc.js",
-    "index.html": "/index.html",
-    "main.2a2e4678.css.map": "/static/css/main.2a2e4678.css.map",
-    "main.80242fdc.js.map": "/static/js/main.80242fdc.js.map"
+    "main.css": "/cars-rtoolkit/static/css/main.2a2e4678.css",
+    "main.js": "/cars-rtoolkit/static/js/main.80242fdc.js",
+    "index.html": "/cars-rtoolkit/index.html",
+    "main.2a2e4678.css.map": "/cars-rtoolkit/static/css/main.2a2e4678.css.map",
+    "main.80242fdc.js.map": "/cars-rtoolkit/static/js/main.80242fdc.js.map"
   },
   "entrypoints": [
     "static/css/main.2a2e4678.css",
